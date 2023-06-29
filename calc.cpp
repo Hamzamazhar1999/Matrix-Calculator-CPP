@@ -386,10 +386,6 @@ void start()
 	printf("\t\t\t\t\t\t                                                                                                                                   \\/                \n");
 	Sleep(300);
 	puts("\n\n\n");
-	printf("\tPROJECT BY:\n");
-	printf("\t--->HAMZA BIN MAZHAR.\n");
-	printf("\t--->ALI ABDUL REHMAN.\n");
-	printf("\t--->SYED JAWWAD RAZA.\n\n\n");
 	SetConsoleTextAttribute(h, wOldColorAttrs);
 	printf("\t\t\t\t\t\t\t\t\t\t\t\t\t\t   Press Enter to continue!");
 	getchar();
